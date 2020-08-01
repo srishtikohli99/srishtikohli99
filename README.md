@@ -33,7 +33,7 @@ Here are some ideas to get you started:
     <img src="https://github.com/srishtikohli99/srishtikohli99/blob/master/assests/stackoverflow.png" width="30" height="30" hspace="20">
   </a>
 
-  <a href="https://www.instagram.com/thesrishtikohli99/">
+  <a href="https://www.instagram.com/srishti.py/">
     <img src="https://github.com/srishtikohli99/srishtikohli99/blob/master/assests/instagram.png" width="30" height="30" hspace="20">
   </a>
 
@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <code>
-  I am Srishti Kohli, final year IT student at<strong>IGDTUW, Delhi</strong>
+  I am Srishti Kohli, final year IT student at <strong>IGDTUW, Delhi</strong>
   </code>
 </p>
 
