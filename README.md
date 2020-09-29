@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 </p> -->
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/srishtikohli99/">
+  <a href="https://www.linkedin.com/in/srishti-kohli-9a6bba15b/">
     <img src="https://github.com/srishtikohli99/srishtikohli99/blob/master/assests/linkedin.png" width="30" height="30" hspace="20">
   </a>
 
