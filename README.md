@@ -83,6 +83,6 @@
 
 <p align="center">
   <a href="https://github.com/srishtikohli99">
-    <img src="https://github-readme-stats.vercel.app/api?username=srishtikohli99" />
+    <img src="https://github-readme-stats.vercel.app/api?username=srishtikohli99&show_icons=true&theme=radical" />
   </a>
 </p>
